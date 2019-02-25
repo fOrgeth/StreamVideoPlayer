@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <bool name="allowPort">true</bool>
-    <bool name="allowLand">true</bool>
     <bool name="isTablet">true</bool>
 </resources>
